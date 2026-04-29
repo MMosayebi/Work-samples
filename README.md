@@ -1,10 +1,15 @@
-# About-Me
-Data analyst and business intelligence specialist with extensive experience in data analysis and providing data-driven solutions to improve strategic decision-making. Possesses strong skills in BI tools and programming languages such as Python and SQL. Capable of identifying complex patterns and delivering key insights to enhance efficiency and business growth. With an analytical and creative approach, I am always striving to optimize processes and increase organizational profitability.
+# Data Analysis Portfolio - Mohammad Mosayebi
 
-You can also view my resume and work samples from above list.
+Hello,
+I'm Mohammad Mosayebi, a Data Analyst.
 
-- Full Name: Mohammad Mosayebi
-- Job Title: Data Analyst
-- Experience: +2 years
-- Last Job Position: Data Analysis Expert at Tarh-Ideh BTL Agency
--  Last Educational Qualification: Bachelor of Computer Science
+In this repository, I've gathered several data analysis projects that I've worked on. Each project includes the code, dataset, and visual outputs.
+
+----
+
+# Project List
+
+Below is the complete list of my projects along with a brief description of each:
+
+### 1- Uber
+- The Uber project involves analyzing trips taken in 2016 (Source: Kaggle). In this project, topics that can help estimate arrival time from origin to destination (based on the distance between the two locations) are presented, and the final equation has been derived.
