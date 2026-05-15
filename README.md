@@ -15,4 +15,4 @@ Below is the complete list of my projects along with a brief description of each
 
 ### 2- HearAttack
 
-### 3- Customer Segmentation
+### 3- [Customer Segmentation](https://github.com/MMosayebi/Work-samples/tree/e0dc2e4e49b57f382a41131b4484b6616b002402/Customer%20Segmentation)
