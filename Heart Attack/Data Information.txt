@@ -1,0 +1,36 @@
+CSV Notes:
+
+* sex:
+	- 0 : Female
+	- 1 : Male
+
+* cp: Chest pain type
+	- 1 : Direct heart pain
+	- 2 : Indirect pain that leads to feeling pain in the heart
+	- 3 : Non-cardiac pain
+	- 4 : without symptoms
+
+* trtbps: Resting blood pressure
+
+* chol: cholesterol
+
+* fbs: High fasting blood sugar – diabetes
+	- 0 : False
+	- 1 : True
+
+* rest_ecg: Resting ECG result
+	- 0 : Normal
+	- 1 : The ST segment of the ECG is abnormal
+	- 2 : Probably or definitely the left ventricle is enlarged
+
+* thalach: Maximum heart rate
+
+* output: Heart attack chance
+	- 0 : Low chance
+	- 1 : High chance
+
+* ca: Number of main vessels
+
+* exang: Does the pain start with a specific activity?
+	- 0 : False
+	- 1 : True
