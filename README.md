@@ -15,4 +15,4 @@ Below is the complete list of my projects along with a brief description of each
 
 ### 2- HearAttack
 
-### 3- Customer Segmentaion
+### 3- Customer Segmentation
