@@ -11,4 +11,4 @@ Each project includes:
 ##  Project List
 
 1- **[Customer Segmentation](https://github.com/MMosayebi/Work-samples/tree/def52f6ac8b5caeb533d02adda623acc51a4ffcd/Customer%20Segmentation)**  
-2- **[Heart Attack](https://github.com/MMosayebi/Work-samples/tree/6eb4938ddec1a8a883653ae83f3184a03ab0e6b9/Heart%20Attack)**
+2- **[Heart Attack](https://github.com/MMosayebi/Work-samples/tree/7fb55d4d322dd9d786a9254437be3c080534d431/Heart%20Attack)**
