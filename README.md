@@ -1,4 +1,4 @@
-# Data Analysis Portfolio - Mohammad Mosayebi
+# Data Analysis Projects - Mohammad Mosayebi
 
 Hello! I'm **Mohammad Mosayebi**, a Data Analyst.
 
